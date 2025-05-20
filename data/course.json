@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "e1d29dd0-0198-f30e-f768-394595070a00",
+      "5630b551-e31e-6d49-d542-891e2dc7678d",
+      "906e81f9-870c-8257-2f99-45848818a2b7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "262cb796-2f7a-4ffd-aa5d-707d1d33d4f9",
+    "website": "foundations-of-information-policy"
+  },
+  "course_title": "Foundations of Information Policy",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "In this class, we will consider the interaction between law, policy, and technology as they relate to the evolving controversies over control of the internet. Our goal is for participants to develop the technical, legal, and rhetorical skills to analyze and participate in the evolution of the global public policy environments that govern human behavior on the internet.\n\nTopics include history of internet policy, the relationship between technical architecture and law, privacy, cybersecurity, freedom of expression, intellectual property, electronic surveillance, trade policy, and international affairs.",
+  "department_numbers": [
+    "6",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.085, STS.487, 6.805",
+  "primary_course_number": "6.4590",
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments with Examples",
+    "Lecture Notes"
+  ],
+  "site_uid": "ed791716-4860-4a5c-9452-cfb546dd2a3e",
+  "site_short_id": "6.4590-fall-2024"
+}

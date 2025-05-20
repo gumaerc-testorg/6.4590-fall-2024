@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 17f6598e-f9c8-4660-8b8b-25433e51e0d3
+  name: Course Website
+  pageRef: /external-resources/course-website
+  weight: 10
